@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.b20b25ce.css",
-    "main.js": "/static/js/main.3b9526d6.js",
-    "static/js/787.ac051f06.chunk.js": "/static/js/787.ac051f06.chunk.js",
+    "main.js": "/static/js/main.986cbd2a.js",
+    "static/js/787.e562498f.chunk.js": "/static/js/787.e562498f.chunk.js",
     "static/media/tacogar.png": "/static/media/tacogar.eb3d76b3884554e13007.png",
     "index.html": "/index.html",
     "main.b20b25ce.css.map": "/static/css/main.b20b25ce.css.map",
-    "main.3b9526d6.js.map": "/static/js/main.3b9526d6.js.map",
-    "787.ac051f06.chunk.js.map": "/static/js/787.ac051f06.chunk.js.map"
+    "main.986cbd2a.js.map": "/static/js/main.986cbd2a.js.map",
+    "787.e562498f.chunk.js.map": "/static/js/787.e562498f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b20b25ce.css",
-    "static/js/main.3b9526d6.js"
+    "static/js/main.986cbd2a.js"
   ]
 }
