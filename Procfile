@@ -1,2 +1,2 @@
-release: python manage.py migrate
-web: gunicorn Hogwarts.wsgi --log-file -
+# Use Gunicorn to run web on Heroku | https://devcenter.heroku.com/articles/procfile
+web: gunicorn mysite.wsgi --log-file -

@@ -74,7 +74,7 @@ export function Previews(props) {
         formData.append('articleFiles[]', file);
     }
     
-    fetch("https://uoft-taco.herokuapp.com/detector/", {
+    fetch("/detector/", {
       method: 'POST',
       mode: 'cors',
       body: formData
